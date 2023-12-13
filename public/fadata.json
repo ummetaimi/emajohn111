@@ -1,0 +1,65 @@
+[
+    {
+      "id": "6575141391a26dc71f10c502",
+      "index": 0,
+      "name": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 4GB ...",
+      "img": "https://www.ryanscomputers.com/storage/products/small/hp-15s-fq3617tu-intel-cdc-n4500-156-inch-fhd-11685250268.webp",
+      "price": 50000,
+      "stock": 10,
+      "rating": 5
+    },
+    {
+      "id": "65751413284ceb593796a7a8",
+      "index": 1,
+      "name": "Micropack MHP-01 Black Wired Headphone",
+      "img": "https://www.ryanscomputers.com/storage/products/small/micropack-mhp-01-black-wired-11646913368.webp",
+      "price": 500,
+      "stock": 8,
+      "rating": 3
+    },
+    {
+      "id": "6575141330ba86eeb1d0ac5e",
+      "index": 2,
+      "name": "Fantech TOWER AC3001 Sakura Edition Pink Headphone Stand",
+      "img": "https://www.ryanscomputers.com/storage/products/small/fantech-tower-ac3001-sakura-edition-pink-11638100842.webp",
+      "price": 6000,
+      "stock": 9,
+      "rating": 4.5
+    },
+    {
+      "id": "65751413434ef8330e62b498",
+      "index": 3,
+      "name": "Epson C13T03Y300 Magenta Ink Bottle",
+      "img": "https://www.ryanscomputers.com/storage/products/small/epson-c13t03y300-magenta-ink-11548738163.webp",
+      "price": 750,
+      "stock": 4,
+      "rating": 5
+    },
+    {
+      "id": "65751413f845960b2c24cc9c",
+      "index": 4,
+      "name": "Epson S015531/S015086 Ribbon for LQ-2170, FX-2170, FX-2180, LQ-2180, LQ-2080, LQ-2190, LQ-2070 Printer #C13S015531",
+      "img": "https://www.ryanscomputers.com/storage/products/small/epson-c13s015086-ribbon-for-lq-2170-fx-2170-11547213835.webp",
+      "price": 1150,
+      "stock": 8,
+      "rating": 3
+    },
+    {
+      "id": "65751413c22fcd76c0d971b9",
+      "index": 5,
+      "name": "Rongta RP327-UP Thermal POS Receipt Printer (USB, Parallel)",
+      "img": "https://www.ryanscomputers.com/storage/products/small/rongta-rp327-up-thermal-receipt-printer-usb-11562747025.webp",
+      "price": 8000,
+      "stock": 2,
+      "rating": 5
+    },
+    {
+      "id": "657514136eee9cb87fe8f31e",
+      "index": 6,
+      "name": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 4GB ...",
+      "img": "https://www.ryanscomputers.com/storage/products/small/hp-15s-fq3617tu-intel-cdc-n4500-156-inch-fhd-11685250268.webp",
+      "price": 50000,
+      "stock": 10,
+      "rating": 5
+    }
+  ]

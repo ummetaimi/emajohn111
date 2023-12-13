@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    list-style: none;
+}
+.logo{
+    color: rgb(193, 193, 8);
+    text-align: center;
+    font-size: 35px;
+}
+.list{
+    background-color: chocolate;
+    padding: 20px 0px;
+}
+.list ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.list ul li{
+    font-size: 22px;
+    color: white;
+}

@@ -1,0 +1,8 @@
+.shop{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}

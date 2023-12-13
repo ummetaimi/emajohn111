@@ -1,0 +1,23 @@
+.cardText{
+    background-color: aliceblue;
+    width: 350px;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0px;
+    border-radius: 20px;
+}
+.cardText h1{
+    text-align: center;
+}
+.cardText button{
+    background-color: chocolate;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: wheat;
+    font-size: 18px;
+    margin-top: 10px;
+}
